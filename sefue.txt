@@ -1,0 +1,113 @@
+   <section id="r-latest-news">
+          <div class="r-latest-news r-latest-news-light" style="background-color: #f8f8f8">
+            <div class="r-sec-head r-sec-head-b">
+              <span>ARTICLES FROM BLOG</span>
+              <h2>Our <b>Latest News.</b></h2>
+            </div>
+            <div class="container">
+              <div class="owl-carousel r-latest-news-list" id="r-latest-news-slider">
+                <div class="r-latest-news-single">
+                  <a href="#" class="d-inline-block"><img src="assets/images/latest-news-01.jpg" class="img-fluid d-block m-auto" alt=""></a>
+                  <div class="r-latest-news-content">
+                    <span class="r-date">27 JUNE 2018</span>
+                    <h4><a href="#">What To Do if Your Rental Car Has Met With An AKMident.</a></h4>
+                    <a href="#" class="r-read-more">READ ARTICLE</a>
+                  </div>
+                </div>
+              
+                <div class="r-latest-news-single">
+                  <a href="#" class="d-inline-block"><img src="assets/images/latest-news-02.jpg" class="img-fluid d-block m-auto" alt=""></a>
+                  <div class="r-latest-news-content">
+                    <span class="r-date">27 JUNE 2018</span>
+                    <h4><a href="#">What To Do if Your Rental Car Has Met With An AKMident.</a></h4>
+                    <a href="#" class="r-read-more">READ ARTICLE</a>
+                  </div>
+                </div>
+              
+                <div class="r-latest-news-single">
+                  <a href="#" class="d-inline-block"><img src="assets/images/latest-news-03.jpg" class="img-fluid d-block m-auto" alt=""></a>
+                  <div class="r-latest-news-content">
+                    <span class="r-date">27 JUNE 2018</span>
+                    <h4><a href="#">What To Do if Your Rental Car Has Met With An AKMident.</a></h4>
+                    <a href="#" class="r-read-more">READ ARTICLE</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      
+	  
+	  
+				<!--
+			
+        <section id="r-advantages-part" class="r-advantages-part">
+          <div class="r-advantage-main-part r-advantage-main-part-white">
+            <div class="container clearfix">
+              <div class="advantage-head">
+                <span>120+ CARS TYPE &amp; BRANDS</span>
+                <h2>Royal Cars <b>Advantages.</b></h2>
+              </div>
+              <div class="row clearfix">
+                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                   <div class="r-advantages-box">
+                     <div class="icon"> <img src="assets/images/advantage-icon-1.png" alt=""> </div>
+                     <div class="head">24/7 Customer Online Support</div>
+                     <div class="sub-text">Call us Anywhere Anytime</div>
+                   </div>
+                 </div>
+                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                   <div class="r-advantages-box">
+                     <div class="icon"> <img src="assets/images/advantage-icon-2.png" alt=""> </div>
+                     <div class="head">Reservation Anytime You Wants</div>
+                     <div class="sub-text">24/7 Online Reservation</div>
+                   </div>
+                 </div>
+                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                   <div class="r-advantages-box">
+                     <div class="icon"> <img src="assets/images/advantage-icon-3.png" alt=""> </div>
+                     <div class="head">Lots of Picking Locations</div>
+                     <div class="sub-text">250+ Locations</div>
+                   </div>
+                 </div>
+              </div>
+            </div>
+          </div>
+        </section>
+		
+		
+		       
+ 
+        <section id="r-about-info">
+          <div class="r-about-info pb-0" style="background-color: #f8f8f8;">
+            <div class="container">
+              <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div class="r-about-info-img">
+                    <img src="assets/images/about-img-02.png"  class="img-fluid d-block m-auto" alt="">
+                  </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                  <div class="r-about-info-content">
+                    <div class="r-sec-head r-sec-head-left r-sec-head-line r-sec-head-w pt-0">
+                      <span>KNOW MORE ABOUT US</span>
+                      <h2>Who <b>Royal Cars</b> Are.</h2>
+                    </div>
+                    <p>
+                      We know the difference is in the details and that’s why our car rental services, in the tourism and business industry, stand out for their quality and good taste.
+                    </p>
+                    <ul class="mb-0 pl-0">
+                      <li><i class="fa fa-check-circle"></i> We working since 1980 with 4.000 customers</li>
+                      <li><i class="fa fa-check-circle"></i> All brand &amp; type cars in our garage</li>
+                      <li><i class="fa fa-check-circle"></i> 1.000+ picking locations around the world</li>
+                    </ul>
+                    <img src="assets/images/about-sign.png" class="img-fluid d-inline-block" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+0b46cb42 
+69b6ff42
+-->

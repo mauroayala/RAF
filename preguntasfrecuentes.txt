@@ -1,0 +1,589 @@
+  <section id="r-faq-section">
+          <div class="r-faq-section r-faq-white-bg">
+            <div class="container">
+                <div class="row v-align-center r-faq-header-wrapper">
+                    <div class="col-md-8 col-sm-12">
+                        <div class="r-faq-header">
+                            <span>Preguntas Frecuentes</span>
+                            <h2>¿Comó <strong>Compro / Vendo?</strong></h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row r-faq-aKMordion-wrapper">
+                  <div class="col-lg-6 col-md-12">
+                    <div class="r-aKMordion">
+                      <div class="r-aKMordion-heading">
+                        <span class="r-aKMordion-toggle">
+                          <i class="fa-arrow-circle-down fa"></i>
+                        </span>
+                       Pregunta Titulo
+                      </div>
+                      <div class="r-aKMordion-body">
+                        <p>
+                        - ENTREGA / USADO $1.110.890 y RETIRA POR ADJUDICACION PACTADA CUOTA 6 Y 9, SIN LICITACIÓN NI SORTEO.
+ 
+                        </p>
+                      </div>
+                    </div> <!-- /r-aKMordion -->
+                    <div class="r-aKMordion">
+                      <div class="r-aKMordion-heading">
+                        <span class="r-aKMordion-toggle">
+                          <i class="fa-arrow-circle-down fa"></i>
+                        </span>
+                       Pregunta Titulo
+                      </div>
+                      <div class="r-aKMordion-body">
+                        <p>
+                        - ENTREGA / USADO $1.110.890 y RETIRA POR ADJUDICACION PACTADA CUOTA 6 Y 9, SIN LICITACIÓN NI SORTEO.
+                        </p>
+                      </div>
+                    </div> <!-- /r-aKMordion -->
+                    <div class="r-aKMordion">
+                      <div class="r-aKMordion-heading">
+                        <span class="r-aKMordion-toggle">
+                          <i class="fa-arrow-circle-down fa"></i>
+                        </span>
+                       Pregunta Titulo
+                      </div>
+                      <div class="r-aKMordion-body">
+                        <p>
+                        - ENTREGA / USADO $1.110.890 y RETIRA POR ADJUDICACION PACTADA CUOTA 6 Y 9, SIN LICITACIÓN NI SORTEO.
+                        </p>
+                      </div>
+                    </div> <!-- /r-aKMordion -->
+                  </div>
+                  <div class="col-lg-6 col-md-12">
+                    <div class="r-aKMordion">
+                     <div class="r-aKMordion-heading">
+                        <span class="r-aKMordion-toggle">
+                          <i class="fa-arrow-circle-down fa"></i>
+                        </span>
+                       Pregunta Titulo
+                      </div>
+                      <div class="r-aKMordion-body" style="display: none;">
+                        <p>
+                        - ENTREGA / USADO $1.110.890 y RETIRA POR ADJUDICACION PACTADA CUOTA 6 Y 9, SIN LICITACIÓN NI SORTEO.
+                        </p>
+                      </div>
+                    </div> <!-- /r-aKMordion -->
+                    <div class="r-aKMordion">
+                      <div class="r-aKMordion-heading">
+                        <span class="r-aKMordion-toggle">
+                          <i class="fa-arrow-circle-down fa"></i>
+                        </span>
+                       Pregunta Titulo
+                      </div>
+                      <div class="r-aKMordion-body">
+                        <p>
+                        - ENTREGA / USADO $1.110.890 y RETIRA POR ADJUDICACION PACTADA CUOTA 6 Y 9, SIN LICITACIÓN NI SORTEO.
+                        </p>
+                      </div>
+                    </div> <!-- /r-aKMordion -->
+                    <div class="r-aKMordion">
+                      <div class="r-aKMordion-heading">
+                        <span class="r-aKMordion-toggle">
+                          <i class="fa-arrow-circle-down fa"></i>
+                        </span>
+                        What happen if i crash the car?
+                      </div>
+                      <div class="r-aKMordion-body">
+                        <p>
+                        - ENTREGA / USADO $1.110.890 y RETIRA POR ADJUDICACION PACTADA CUOTA 6 Y 9, SIN LICITACIÓN NI SORTEO.
+                        </p>
+                      </div>
+                    </div> <!-- /r-aKMordion -->
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12 text-center">
+                    <a href="#" class="btn-primary icon-btn"> <i class="fa fa-question-circle icon"></i> 
+					Hacer una consulta </a>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </section>
+      
+	 <section id="r-new-member" style="display:none">
+          <div class="r-new-member r-who-we-outer r-new-member-dark">
+            <div class="container">
+              <div class=" r-sec-head-left r-sec-head-line r-sec-head-r pt-0">
+                <span> </span>
+                <h2 style="color:white">¿Por qué vender con<b> nosotros</b> ?</h2>
+              </div>
+              <div class="row clearfix mb-5 r-who-we-small">
+                <div class="col-lg-6">
+				     <p class="mb-0" style="color:white">      <br>        
+					 Te explicamos lo seguro y transparente que es trabajar con nosotros.
+					     </p>
+
+                 </div>
+                <div class="col-lg-6">
+                  <p class="blockquote">
+                   Te explicamos lo seguro y transparente que es trabajar con nosotros.
+              
+                </div>
+              </div>
+              <div class="row r-who-we clearfix">
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 mb-3">
+                  <div class="r-who-we-in">
+                    <img src="assets/images/who-we-01.png" class="d-block img-fluid" alt="">
+                    <h4>Gran Personal</h4>
+                    <p>Breve argunmento</p>
+                  </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 mb-3">
+                  <div class="r-who-we-in">
+                    <img src="assets/images/who-we-02.png" class="d-block img-fluid" alt="">
+                    <h4>Seguridad</h4>
+                    <p>Breve argunmento</p>
+                  </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 mb-3">
+                  <div class="r-who-we-in">
+                    <img src="assets/images/who-we-03.png" class="d-block img-fluid" alt="">
+                    <h4>Confianza</h4>
+                    <p>Breve argunmento</p>
+                  </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 mb-3">
+                  <div class="r-who-we-in">
+                    <img src="assets/images/who-we-04.png" class="d-block img-fluid" alt="">
+                    <h4>Sistema Integral</h4>
+                    <p>Breve argunmento</p>
+                  </div>
+                </div>
+              </div>
+              <div class="r-btns pt-5 pb-2" style="display:none">
+                <a href="#" class="btn btn-full">VIEW ALL VEHICLES</a>
+                <a href="#" class="btn btn-full btn-dark">RESERVED CAR</a>
+              </div>
+            </div>
+          </div>
+        </section>
+     
+
+
+
+
+        <section class="r-advantages-part">
+          <div class="r-advantage-main-part r-advantage-main-part-white">
+            <div class="container clearfix">
+              <div class="advantage-head">
+                <span>Titulo / Más consultados</span>
+                <h2>Vehiculos <b> Seguros.</b></h2>
+              </div>
+              <div class="clearfix r-car-tabs">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                  <li class="nav-item">
+                    <a class="nav-link active" id="business-tab" data-toggle="tab" href="#business" role="tab" aria-controls="business" aria-selected="true">Business Cars</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="luxury-tab" data-toggle="tab" href="#luxury" role="tab" aria-controls="luxury" aria-selected="false">Luxury cars</a>
+                  </li> 
+                  <li class="nav-item">
+                    <a class="nav-link" id="family-tab" data-toggle="tab" href="#family" role="tab" aria-controls="family" aria-selected="false">Family Cars</a>
+                  </li> 
+                  <li class="nav-item">
+                    <a class="nav-link" id="sport-tab" data-toggle="tab" href="#sport" role="tab" aria-controls="sport" aria-selected="false">Sport Cars</a>
+                  </li> 
+                </ul>
+                <div class="tab-content" id="myTabContent">
+                  <div class="tab-pane fade show active" id="business" role="tabpanel" aria-labelledby="business-tab">
+                    <div class="r-car-whole-info">
+                      <div class="row">
+                        <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
+                          <div class="r-car-product-carousel-wrapper">
+                            <div class="r-car-product-carousel owl-carousel" data-slider-id="r-product-slider" id="productSlider">
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-2.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-1.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-3.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-4.jpg" alt="" class="img-fluid" />
+                              </div>
+                            </div>
+
+                            <ul class="owl-thumbs r-car-product-carousel-thumb" data-slider-id="r-product-slider">
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-1.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-2.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-3.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-4.jpg" alt="" class="img-fluid" /> </li>
+                            </ul>
+                          </div> <!-- /r-car-product-carousel-wrapper -->
+                        </div>
+
+                        <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                          <div class="r-car-info-content">
+                            <span class="r-reg-year">Volkswagen </span>
+                            <h2 class="r-product-name"> Mercedes Benz <span>GTR</span> </h2>
+                            <p class="r-product-description">Informacion breve del vehiculo, papeles , detalles . Precio etc.</p>
+                            <div class="table-responsive">
+                              <table class="table table-bordered">
+                                <tr>
+                                  <td>Modelo Gol Trend</td>
+                                  <td>Año 2017 </td>
+                                </tr>
+                                <tr>
+                                  <td>Puertas 5</td>
+                                  <td>Motor 1.6MSI</td>
+                                </tr> 
+                              </table>
+							  
+<style>
+.activeColor{
+    background-color: #0b46cb !important;
+    color: #fff !important;
+}</style>							  
+                              <ul class="pl-0 mb-0 text-left mb-4">
+                                <li class="activeColor"><i class="fa fa-car"></i><span>2017</span></li>
+                                <li class="activeColor"><i class="fa fa-cogs"></i><span>MANUAL</span></li>
+                                <li class="activeColor"><i class="fa fa-beer"></i><span>NAFTA</span></li>
+                                <li class="activeColor"><i class="fa fa-road"></i><span>2.3k KM</span></li>
+                              </ul>
+                            </div>
+                            <a href="#" class="btn btn-full">Más Info</a>
+                          </div>
+                          <!-- /r-car-info-content -->
+                        </div>
+                      </div>
+                    </div> <!-- /r-car-whole-info -->
+                  </div>
+                  <div class="tab-pane fade" id="luxury" role="tabpanel" aria-labelledby="luxury-tab">
+                    <div class="r-car-whole-info">
+                      <div class="row">
+                        <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
+                          <div class="r-car-product-carousel-wrapper">
+                            <div class="r-car-product-carousel owl-carousel" data-slider-id="r-product-slider-01" id="productSlider-01">
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-2 - copia.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-1 - copia.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-3 - copia.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-4 - copia.jpg" alt="" class="img-fluid" />
+                              </div>
+                            </div>
+
+                            <ul class="owl-thumbs r-car-product-carousel-thumb" data-slider-id="r-product-slider-01">
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-2 - copia.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-1 - copia.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-3 - copia.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-4 - copia.jpg" alt="" class="img-fluid" /> </li>
+                            </ul>
+                          </div> <!-- /r-car-product-carousel-wrapper -->
+                        </div>
+
+                        <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                          <div class="r-car-info-content">
+                            <span class="r-reg-year">Registered 2017</span>
+                            <h2 class="r-product-name">Audi <span>R8</span> </h2>
+                            <p class="r-product-description">Informacion breve del vehiculo, papeles , detalles . Precio etc.</p>
+                            <div class="table-responsive">
+                              <table class="table table-bordered">
+                                <tr>
+                                  <td>Modelo Gol Trend</td>
+                                  <td>Año 2017 </td>
+                                </tr>
+                                <tr>
+                                  <td>Puertas 5</td>
+                                  <td>Motor 1.6MSI</td>
+                                </tr> 
+                              </table>
+                              <ul class="pl-0 mb-0 text-left mb-4">
+                                <li><i class="fa fa-car"></i><span>2017</span></li>
+                                <li><i class="fa fa-cogs"></i><span>MANUAL</span></li>
+                                <li><i class="fa fa-beer"></i><span>NAFTA</span></li>
+                                <li><i class="fa fa-road"></i><span>2.3k KM</span></li>
+                              </ul>
+                            </div>
+                            <a href="#" class="btn btn-full">Más Info</a>
+                          </div>
+                          <!-- /r-car-info-content -->
+                        </div>
+                      </div>
+                    </div> <!-- /r-car-whole-info -->
+                  </div>
+                  <div class="tab-pane fade" id="family" role="tabpanel" aria-labelledby="family-tab">
+                    <div class="r-car-whole-info">
+                      <div class="row">
+                        <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
+                          <div class="r-car-product-carousel-wrapper">
+                            <div class="r-car-product-carousel owl-carousel" data-slider-id="r-product-slider-02" id="productSlider-02">
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-3.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-1.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-2.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-4.jpg" alt="" class="img-fluid" />
+                              </div>
+                            </div>
+
+                            <ul class="owl-thumbs r-car-product-carousel-thumb" data-slider-id="r-product-slider-02">
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-3.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-1.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-2.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-4.jpg" alt="" class="img-fluid" /> </li>
+                            </ul>
+                          </div> <!-- /r-car-product-carousel-wrapper -->
+                        </div>
+
+                        <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                          <div class="r-car-info-content">
+                            <span class="r-reg-year">Registered 2018</span>
+                            <h2 class="r-product-name"> Hyundai <span>Z.E</span> </h2>
+                            <p class="r-product-description">This was our first time renting from Royal Cars and we were very pleased with the whole experience. Your price was lower than other companies.</p>
+                            <div class="table-responsive">
+                              <table class="table table-bordered">
+                                <tr>
+                                  <td>Modelo Gol Trend</td>
+                                  <td>Año 2017 </td>
+                                </tr>
+                                <tr>
+                                  <td>Puertas 5</td>
+                                  <td>Motor 1.6MSI</td>
+                                </tr> 
+                              </table>
+                              <ul class="pl-0 mb-0 text-left mb-4">
+                                <li><i class="fa fa-car"></i><span>2017</span></li>
+                                <li><i class="fa fa-cogs"></i><span>MANUAL</span></li>
+                                <li><i class="fa fa-beer"></i><span>NAFTA</span></li>
+                                <li><i class="fa fa-road"></i><span>2.3k KM</span></li>
+                              </ul>
+                            </div>
+                            <a href="#" class="btn btn-full">Más Info</a>
+                          </div>
+                          <!-- /r-car-info-content -->
+                        </div>
+                      </div>
+                    </div> <!-- /r-car-whole-info -->
+                  </div>
+                  <div class="tab-pane fade" id="sport" role="tabpanel" aria-labelledby="sport-tab">
+                    <div class="r-car-whole-info">
+                      <div class="row">
+                        <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
+                          <div class="r-car-product-carousel-wrapper">
+                            <div class="r-car-product-carousel owl-carousel" data-slider-id="r-product-slider-03" id="productSlider-03">
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-4.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-1.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-2.jpg" alt="" class="img-fluid" />
+                              </div>
+                              <div class="item">
+                                <img src="assets/images/car-slider-img-3.jpg" alt="" class="img-fluid" />
+                              </div>
+                            </div>
+
+                            <ul class="owl-thumbs r-car-product-carousel-thumb" data-slider-id="r-product-slider-03">
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-4.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-1.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-2.jpg" alt="" class="img-fluid" /> </li>
+                              <li class="owl-thumb-item"> <img src="assets/images/car-slider-img-3.jpg" alt="" class="img-fluid" /> </li>
+                            </ul>
+                          </div> <!-- /r-car-product-carousel-wrapper -->
+                        </div>
+
+                        <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                          <div class="r-car-info-content">
+                            <span class="r-reg-year">Volkswagen </span>
+                            <h2 class="r-product-name"> Volk <span>GTR</span> </h2>
+                            <p class="r-product-description">This was our first time renting from Royal Cars and we were very pleased with the whole experience. Your price was lower than other companies.</p>
+                            <div class="table-responsive">
+                              <table class="table table-bordered">
+                                <tr>
+                                  <td>Modelo Gol Trend</td>
+                                  <td>Año 2017 </td>
+                                </tr>
+                                <tr>
+                                  <td>Puertas 5</td>
+                                  <td>Motor 1.6MSI</td>
+                                </tr> 
+                              </table>
+                              <ul class="pl-0 mb-0 text-left mb-4">
+                                <li><i class="fa fa-car"></i><span>2017</span></li>
+                                <li><i class="fa fa-cogs"></i><span>MANUAL</span></li>
+                                <li><i class="fa fa-beer"></i><span>NAFTA</span></li>
+                                <li><i class="fa fa-road"></i><span>2.3k KM</span></li>
+                              </ul>
+                            </div>
+                            <a href="#" class="btn btn-full">Más Info</a>
+                          </div>
+                          <!-- /r-car-info-content -->
+                        </div>
+                      </div>
+                    </div> <!-- /r-car-whole-info -->
+                  </div>
+                </div>
+              </div> 
+            </div>
+          </div>
+        </section> 
+      
+	
+
+<!-- se fue -->
+	 <div id="r-gallery-part">
+          <div class="r-gallery-part r-gallery-part-home py-0">
+            <ul class="clearfix">
+              <li>
+                  <a href="assets/images/gallery-img01.jpg" data-rel="lightcase:myCollection">
+                      <img src="assets/images/gallery-img01.jpg" class="d-block img-fluid" alt="">
+                      <div class="gallery-hover">
+                        <div class="gallery-text">
+                          <div class="icon-gallery"><i class="fa fa-search" aria-hidden="true"></i></div>
+                        </div>
+                      </div>
+                  </a>
+              </li>
+              <li>
+                  <a href="assets/images/gallery-img02.jpg" data-rel="lightcase:myCollection">
+                      <img src="assets/images/gallery-img02.jpg" class="d-block img-fluid" alt="">
+                      <div class="gallery-hover">
+                        <div class="gallery-text">
+                          <div class="icon-gallery"><i class="fa fa-search" aria-hidden="true"></i></div>
+                        </div>
+                      </div>
+                  </a>
+              </li>
+              <li>
+                  <a href="assets/images/gallery-img03.jpg" data-rel="lightcase:myCollection">
+                      <img src="assets/images/gallery-img03.jpg" class="d-block img-fluid" alt="">
+                      <div class="gallery-hover">
+                        <div class="gallery-text">
+                          <div class="icon-gallery"><i class="fa fa-search" aria-hidden="true"></i></div>
+                        </div>
+                      </div>
+                  </a>
+              </li>
+              <li>
+                  <a href="assets/images/gallery-img04.jpg" data-rel="lightcase:myCollection">
+                      <img src="assets/images/gallery-img04.jpg" class="d-block img-fluid" alt="">
+                      <div class="gallery-hover">
+                        <div class="gallery-text">
+                          <div class="icon-gallery"><i class="fa fa-search" aria-hidden="true"></i></div>
+                        </div>
+                      </div>
+                  </a>
+              </li>
+              <li>
+                  <a href="assets/images/gallery-img05.jpg" data-rel="lightcase:myCollection">
+                      <img src="assets/images/gallery-img05.jpg" class="d-block img-fluid" alt="">
+                      <div class="gallery-hover">
+                        <div class="gallery-text">
+                          <div class="icon-gallery"><i class="fa fa-search" aria-hidden="true"></i></div>
+                        </div>
+                      </div>
+                  </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <footer>
+          <div class="r-footer">
+            <div class="container">
+              <div class="row clearfix">
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                  <div class="r-footer-block">
+                    <h1 class="mb-3"><b class=""  >RAF Autos</b> <span></span></h1>
+                    <p>Tramites Registrales del Automotor y Seguros autos/motos.
+                    </p>
+                    <form action="#">
+                      <div class="r-newsletter">
+                        <input type="email" placeholder="Subscribe Newsletter">
+                        <button class="btn"><i class="fa fa-envelope"></i></button>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                  <div class="r-footer-block">
+                    <div class="r-footer-widget r-footer-phone">
+                      <span><i class="fa fa-phone"></i> Teléfono / Whatsapp 1</span>
+                      <h5>100.1212.2000</h5>
+                    </div>
+                    <div class="r-footer-widget r-footer-nav">
+                      <h6>Seguros</h6>
+                      <nav>
+                        <ul>
+                          <li><a href="#">Seguro del Hogar</a></li>
+                          <li><a href="#">Seguros para Autos</a></li>
+                          <li><a href="#">Seguros de Comercio</a></li>
+                          <li><a href="#">Seguros Personales</a></li>
+                        </ul>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                  <div class="r-footer-block">
+                    <div class="r-footer-widget r-footer-phone">
+                      <span><i class="fa fa-phone"></i> Teléfono / Whatsapp 2</span>
+                      <h5>100.2424.2000</h5>
+                    </div>
+                    <div class="r-footer-widget r-footer-nav">
+                      <h6>Tramites</h6>
+                      <nav>
+                        <ul>
+                          <li><a href="#">Registros</a></li>
+                          <li><a href="#">Transferencias</a></li>
+                          <li><a href="#">Verificacion Policial</a></li>
+                          <li><a href="#">08</a></li>
+                        </ul>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                  <div class="r-footer-block">
+                    <div class="r-footer-widget r-footer-map">
+                      <a href="#"> <img src="assets/images/icon-footer-map.png" class="icon" alt=''/> 
+					  Maps Local</a>
+                    </div>
+                    <div class="r-footer-widget r-footer-nav">
+                      <h6>Información Adicional</h6>
+                      <nav>
+                        <ul>
+                          <li><a href="#">¿Comó Vender?</a></li>
+                          <li><a href="#">¿Comó Comprar?</a></li>
+                          <li><a href="#">¿Comó Reservar?</a></li>
+                          <li><a href="#">Contacto</a></li>
+                         </ul>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row clearfix r-footer-strip">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                 Sitios diseñado y desarrollado por Mauro Julian Ayala                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                 <ul>
+                   <li><a href="#"><i class="fa fa-facebook"></i>. <span>Facebook</span></a></li>
+                   <li><a href="#"><i class="fa fa-twitter"></i>.<span>Twitter</span></a></li>
+                   <li><a href="#"><i class="fa fa-instagram"></i>.<span>Instagram</span></a></li>
+                 </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+   
