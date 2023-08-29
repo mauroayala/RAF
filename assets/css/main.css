@@ -13364,7 +13364,7 @@ a:focus {
       cursor: pointer; }
 
 .r-driver-blog-dark {
- /* background-image: url("../images/driver-bg-dark.jpg");*/
+ background-image: url("../images/driver-bg-dark.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 125px; }
